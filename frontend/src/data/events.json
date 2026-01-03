@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Math Study Group",
+    "subject": "Mathematics",
+    "date": "2025-10-20",
+    "location": "Library Room 3",
+    "category": "Math",
+    "joined": false
+  },
+  {
+    "id": 2,
+    "title": "Intro to Java",
+    "subject": "Computer Science",
+    "date": "2025-10-22",
+    "location": "Lab 1",
+    "category": "Java",
+    "joined": false
+  },
+  {
+    "id": 3,
+    "title": "C++ Problem Solving",
+    "subject": "Computer Science",
+    "date": "2025-10-25",
+    "location": "Lab 2",
+    "category": "C++",
+    "joined": false
+  },
+  {
+    "id": 4,
+    "title": "Web Development Basics",
+    "subject": "Web",
+    "date": "2025-10-28",
+    "location": "Room 5",
+    "category": "Web",
+    "joined": false
+  },
+  {
+    "id": 5,
+    "title": "Python for Beginners",
+    "subject": "Computer Science",
+    "date": "2025-11-01",
+    "location": "Lab 3",
+    "category": "Python",
+    "joined": false
+  },
+  {
+    "id": 6,
+    "title": "Football Match",
+    "subject": "Sports",
+    "date": "2025-11-03",
+    "location": "Campus Field",
+    "category": "Sports",
+    "joined": false
+  },
+  {
+    "id": 7,
+    "title": "Cultural Night",
+    "subject": "Social",
+    "date": "2025-11-05",
+    "location": "Main Hall",
+    "category": "Social",
+    "joined": false
+  }
+]
